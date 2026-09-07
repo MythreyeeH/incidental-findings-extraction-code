@@ -1,0 +1,948 @@
+{
+  "reports": [
+    {
+      "report_id": "T0001",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "There are contaminations and reticular density increases in the left perirenal fatty planes.",
+          "Left pelvicalyceal structures are slightly dilated."
+        ]
+      }
+    },
+    {
+      "report_id": "T0002",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "A slightly dilated appearance is observed in the pelvicalyceal system of both kidneys."
+        ]
+      }
+    },
+    {
+      "report_id": "T0003",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Mild effusion is observed around the gallbladder and its wall has a thick appearance.",
+          "Mild ectasia is observed in the left kidney.",
+          "There is mild thickening of the peritoneal reflections on the left, mild contamination in the parocolic and mesenteric planes."
+        ]
+      }
+    },
+    {
+      "report_id": "T0004",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Mild ectasia is observed in the left kidney.",
+          "There is mild thickening of the peritoneal reflections on the left, mild contamination in the paracolic and mesenteric planes."
+        ]
+      }
+    },
+    {
+      "report_id": "T0005",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0006",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0007",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "There are calcific atheromatous plaques in the thoracic aorta and coronary arteries."
+        ]
+      }
+    },
+    {
+      "report_id": "T0008",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "There are minimal emphysematous changes in both lungs."
+        ]
+      }
+    },
+    {
+      "report_id": "T0009",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "A millimetric calcific nodule is observed adjacent to the minor fissure in the upper lobe posterior on the right.",
+          "There are millimetric point, calyx stones in the right kidney."
+        ]
+      }
+    },
+    {
+      "report_id": "T0010",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0011",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Atheroma plaques are observed in the aorta and coronary arteries.",
+          "There are stones in the gallbladder.",
+          "Minimal emphysematous changes were observed in both lungs."
+        ]
+      }
+    },
+    {
+      "report_id": "T0012",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Calcific plaques are observed in the coronary arteries and aortic arch.",
+          "The AP diameter of the ascending aorta is 4.2 cm, and the AP diameter of the descending aorta is 3.8 cm, and it is wider than normal.",
+          "Right lung lower lobe basal segment calcified nodule is observed.",
+          "Both adrenal glands are in the medial crus and the left adrenal gland body part is thick and nodular (nonfunctional adenoma?)."
+        ]
+      }
+    },
+    {
+      "report_id": "T0013",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "There are atheromatous plaques in the aorta and coronary arteries.",
+          "Emphysematous changes are observed in both lungs."
+        ]
+      }
+    },
+    {
+      "report_id": "T0014",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Calcific atheroma plaques were observed in the aortic arch and coronary arteries.",
+          "Both lungs are emphysematous.",
+          "Liver parenchyma density is diffusely decreased, consistent with hepatosteatosis.",
+          "The left kidney is atrophic."
+        ]
+      }
+    },
+    {
+      "report_id": "T0015",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "There are nonspecific millimetric nodules, some of which are calcified, in both lungs."
+        ]
+      }
+    },
+    {
+      "report_id": "T0016",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "There is a sliding type hiatal hernia."
+        ]
+      }
+    },
+    {
+      "report_id": "T0017",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Several nonspecific parenchymal nodules with a diameter of 3.7 mm were observed in both lungs, the largest of which was in the middle lobe of the right lung."
+        ]
+      }
+    },
+    {
+      "report_id": "T0018",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Calcific atheroma plaques are observed on the walls of the thoracic aorta and coronal vascular structures.",
+          "There is a slippery mild hiatal hernia at the lower end.",
+          "There are paraseptal centriacinar emphysematous changes in both lungs.",
+          "In the middle zone of the right kidney, a cortical lesion with a size of 35x30 mm and hypodense fluid density is observed (simple cyst?)."
+        ]
+      }
+    },
+    {
+      "report_id": "T0019",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "The aortic arch is calibrated slightly wider than normal with 30 mm.",
+          "A 4x2 mm nodule is observed in the right lung lower lobe superior segment, laterally.",
+          "A hypodense lesion with a diameter of about 10 mm is observed laterally at the junction of the inferior pole-middle section of the right kidney (cortical cyst?)."
+        ]
+      }
+    },
+    {
+      "report_id": "T0020",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0021",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0022",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "A subpleural 4 mm diameter nonspecific parenchymal nodule was observed in the apical right lung."
+        ]
+      }
+    },
+    {
+      "report_id": "T0023",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Calcific atheroma plaques were observed in the main vascular structures."
+        ]
+      }
+    },
+    {
+      "report_id": "T0024",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0025",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0026",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Atheroma plaques are observed in the aorta and coronary arteries.",
+          "The ascending aorta is measured 40 mm in anterior-posterior diameter and is minimally wider than normal.",
+          "There is a millimetric nonspecific nodule in the lower lobe of the right lung.",
+          "Sliding hiatal hernia is observed at the lower end of the esophagus."
+        ]
+      }
+    },
+    {
+      "report_id": "T0027",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Multiple cortical and parapelvic cysts were observed in both kidneys and upper abdominal organs included in the sections.",
+          "Significant multiple hypodense lesions were observed on the left in both lobes of the liver."
+        ]
+      }
+    },
+    {
+      "report_id": "T0028",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "There is a sliding type hiatal hernia at the lower end of the esophagus.",
+          "A sclerotic bone lesion is observed in the T2 vertebral corpus."
+        ]
+      }
+    },
+    {
+      "report_id": "T0029",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "There are centriacinar and paraseptal emphysematous changes in both lung parenchyma, more prominent in the diffuse upper lobes.",
+          "A slight thickening is observed in the right adrenal gland."
+        ]
+      }
+    },
+    {
+      "report_id": "T0030",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0031",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "An effusion of approximately 20 mm was observed in the deepest part of the pericardial space."
+        ]
+      }
+    },
+    {
+      "report_id": "T0032",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0033",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "There are millimetric non-specific nodules in the bilateral lung."
+        ]
+      }
+    },
+    {
+      "report_id": "T0034",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Siliding type hiatal hernia is observed.",
+          "There are several nonspecific pulmonary nodules with a diameter of 3.8 mm in the anterior segment of the right lung upper lobe, 3 mm in diameter in the left lung upper lobe posterior segment.",
+          "The liver parenchyma density was diffusely decreased in line with the adiposity."
+        ]
+      }
+    },
+    {
+      "report_id": "T0035",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "The ascending aorta measures 42 mm in anterior-posterior diameter and is wider than normal.",
+          "The diameter of the main pulmonary artery was 29 mm and it was minimally wider than normal.",
+          "Millimetric nonspecific nodules were observed in both lungs."
+        ]
+      }
+    },
+    {
+      "report_id": "T0036",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "The ascending aorta develops from normal by 46 millimeters.",
+          "Emphysematous changes are observed."
+        ]
+      }
+    },
+    {
+      "report_id": "T0037",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0038",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "There is a stone with a diameter of 4 mm in the middle part of the left kidney.",
+          "In the liver parenchyma density, a decrease in density consistent with advanced adiposity was observed."
+        ]
+      }
+    },
+    {
+      "report_id": "T0039",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Millimetric calcific atheroma plaques are observed in the aortic wall.",
+          "Hepatosteatosis is observed in the liver."
+        ]
+      }
+    },
+    {
+      "report_id": "T0040",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "A 3 mm nonspecific nodule was observed in the superior lower lobe of the left lung.",
+          "There is an osteoporotic appearance in bone structures.",
+          "There is a height loss of nearly 50% in the L1 vertebral corpus, and the appearance of cementoplasty is observed at this level."
+        ]
+      }
+    },
+    {
+      "report_id": "T0041",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Sliding type hiatal hernia was observed at the lower end of the esophagus.",
+          "Millimetric nonspecific parenchymal nodules were observed in both lungs.",
+          "At the thoracic level, left-facing scoliosis was observed."
+        ]
+      }
+    },
+    {
+      "report_id": "T0042",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "The diameter of the main pulmonary artery increased by 45 mm, as far as it could be evaluated within the limits of the non-contrast examination.",
+          "Minimal emphysematous changes are observed in both lungs."
+        ]
+      }
+    },
+    {
+      "report_id": "T0043",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "There are wall calcifications in the aorta and coronary arteries.",
+          "The diameter of the ascending aorta is 43 mm and the diameter of the descending aorta is 35 mm, and it has an aneurysmatic appearance.",
+          "Hiatal hernia is present.",
+          "Multiple nodular hypodense lesions (cyst ?) are present in both kidneys, the largest of which is 35 mm in diameter, located cortical."
+        ]
+      }
+    },
+    {
+      "report_id": "T0044",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "The right kidney was not observed.",
+          "There is a mass in the right adrenal gland corpus with the longest diameter of approximately 27 mm."
+        ]
+      }
+    },
+    {
+      "report_id": "T0045",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "In the coronary arteries, there are calcified atheroma plaques of berligin in the LAD.",
+          "Calculus is observed in the gallbladder.",
+          "Right adrenal gland lateral crus expansil is observed."
+        ]
+      }
+    },
+    {
+      "report_id": "T0046",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0047",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0048",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "There is lobulation in the liver contours.",
+          "There are minimal emphysematous changes in both lungs."
+        ]
+      }
+    },
+    {
+      "report_id": "T0049",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Millimetric-sized calcific atheroma plaques are observed in the coronary arteries.",
+          "A decrease in density consistent with hepatosteatosis is observed in the liver."
+        ]
+      }
+    },
+    {
+      "report_id": "T0050",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0051",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0052",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Atheroma plaques are observed in the coronary artery.",
+          "An effusion reaching 17 mm in diameter was observed in the widest part of the pericardium.",
+          "Anteriorly extending osteophytes are observed in the thoracic vertebrae."
+        ]
+      }
+    },
+    {
+      "report_id": "T0053",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Heart size increased.",
+          "Thoracic kyphosis is increased."
+        ]
+      }
+    },
+    {
+      "report_id": "T0054",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0055",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "The ascending aortic anteroposterior diameter was 44 mm, the descending aorta anteroposterior diameter was 32 mm, and the transverse diameter of the pulmonary trunk was 33 mm, larger than normal.",
+          "Calcified atheroma plaques were observed on the walls of the thoracic aorta and coronary vascular structures.",
+          "There is a sliding type hiatal hernia at the lower end.",
+          "Dilatation is observed in the intrahepatic bile ducts and common bile duct, and no obstructive pathology was detected in this examination.",
+          "There is also ectasia in the right renal pelvicalyceal system.",
+          "In the upper pole of the right kidney, there is a cortical hypodense fluid density lesion with a diameter of 15 mm within the borders of non-enhanced CT, which cannot be clearly characterized (simple cyst?)."
+        ]
+      }
+    },
+    {
+      "report_id": "T0056",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "There is a 2.5 mm diameter nodule located in the perifisural region in the superior segment of the left lung lower lobe.",
+          "Sliding type hiatal hernia is observed at the esophagogastric junction.",
+          "Liver parenchyma density decreased in favor of fat (33 HU)."
+        ]
+      }
+    },
+    {
+      "report_id": "T0057",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Mild emphysematous changes are present in both lungs apical.",
+          "Liver parenchyma density decreased diffusely in the upper abdominal sections in the study area in line with the adiposity."
+        ]
+      }
+    },
+    {
+      "report_id": "T0058",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Accessory spleen with 11 mm diameter is observed in the anterior lower pole of the spleen."
+        ]
+      }
+    },
+    {
+      "report_id": "T0059",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Calcific plaques are observed on the walls of the coronary artery."
+        ]
+      }
+    },
+    {
+      "report_id": "T0060",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0061",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "The stent placed in the RCA was observed."
+        ]
+      }
+    },
+    {
+      "report_id": "T0062",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Sliding type hiatal hernia was observed at the lower end of the esophagus."
+        ]
+      }
+    },
+    {
+      "report_id": "T0063",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0064",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "In the medial segment of the left lobe of the liver, there is a hypodense area that does not have a clear border and measures approximately 50 mm at its widest point."
+        ]
+      }
+    },
+    {
+      "report_id": "T0065",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "The ascending aorta measures 39 mm in diameter and shows slight dilatation.",
+          "A millimetric nonspecific parenchymal nodule was observed in the anterior segment of the right lung upper lobe.",
+          "Two nonspecific parenchymal nodules measuring 3.9 mm in diameter were observed in the upper lobe of the right lung."
+        ]
+      }
+    },
+    {
+      "report_id": "T0066",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "An appearance of a parenchymal nodule with a diameter of 3 mm was observed in the left lung lingular segment."
+        ]
+      }
+    },
+    {
+      "report_id": "T0067",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Sliding type hiatal hernia was observed at the lower end of the esophagus.",
+          "A focal fat area was observed in the medial segment of the left lobe of the liver, adjacent to the falciform ligament."
+        ]
+      }
+    },
+    {
+      "report_id": "T0068",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "A few nodules with a diameter of 6 mm were observed in the parenchyma of both lungs, the largest of which was in the right middle lobe laterally.",
+          "There are hypodense lesions in the liver, the larger of which reaches 25 mm in diameter in segment 4."
+        ]
+      }
+    },
+    {
+      "report_id": "T0069",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "A decrease in density consistent with hepatosteatosis is observed in the liver.",
+          "3 mm calculus is observed in the middle part of the left kidney."
+        ]
+      }
+    },
+    {
+      "report_id": "T0070",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "The ascending aorta measures 42 mm in anterior-posterior diameter and is wider than normal.",
+          "Emphysematous changes are observed in both lungs.",
+          "There are millimetric nonspecific nodules in both lungs."
+        ]
+      }
+    },
+    {
+      "report_id": "T0071",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "A nodule measuring 15 mm in the apical segment of the right lung upper lobe and 11 mm in the left lung superior lingular segment is observed, and follow-up is recommended.",
+          "There are nodules of nonspecific millimetric dimensions in both lungs."
+        ]
+      }
+    },
+    {
+      "report_id": "T0072",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "1-2 millimetric nonspecific nodules are observed in both lungs."
+        ]
+      }
+    },
+    {
+      "report_id": "T0073",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Millimetric-sized calcific atheroma plaques are observed at the level of the aortic arch and the ascending aorta.",
+          "A nodule with a diameter of approximately 6 mm is observed in the laterobasal segment.",
+          "Mild emphysema is present.",
+          "Calcific atheroma plaques are observed in the abdominal aorta."
+        ]
+      }
+    },
+    {
+      "report_id": "T0074",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "The ascending aorta measures 39 mm in diameter and shows mild fusiform dilatation.",
+          "The diameter of the main pulmonary artery was 31 mm and it shows dilatation.",
+          "A nonspecific parenchymal nodule with a diameter of 7 mm was observed in the anterobasal segment of the right lung equine lobe.",
+          "Multiple nonspecific parenchymal nodules in different localizations were observed in the left lung, the largest of which was 5.5 mm in diameter in the lower lobe laterobasal segment.",
+          "A well-circumscribed hypodense lesion with a diameter of 6 mm was observed in the posterior of the left 4th rib."
+        ]
+      }
+    },
+    {
+      "report_id": "T0075",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "The aortic arch calibration is approximately 31 mm.",
+          "There is a stable nodule of approximately 4 mm in diameter subpleural at the laterobasal level of the lower lobe of the right lung.",
+          "There is a stable 5 mm diameter nodule at the posterobasal level."
+        ]
+      }
+    },
+    {
+      "report_id": "T0076",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0077",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "A few millimetric calculi were observed in both kidneys.",
+          "A ground-glass nodule smaller than 5 mm was observed in the anterior upper lobe of the left lung."
+        ]
+      }
+    },
+    {
+      "report_id": "T0078",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "A calcific nodule with a diameter of approximately 5 mm is observed in the posterior segment caudal of the right lung upper lobe.",
+          "There is a calcific nodule with a diameter of 3 mm in the lower lib superior segment of the left lung.",
+          "In the upper abdominal organs included in the sections, a density compatible with a few 2 mm calculus in both kidneys was observed."
+        ]
+      }
+    },
+    {
+      "report_id": "T0079",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0080",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Calcific atherosclerotic changes are observed in the wall of the thoracic aorta and coronary artery.",
+          "Millimetric sized calcifications are observed in both lobes of the liver.",
+          "Calcified atherosclerotic changes are observed in the wall of the abdominal aorta."
+        ]
+      }
+    },
+    {
+      "report_id": "T0081",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Calcified atherosclerotic changes were observed in the wall of the thoracic aorta and coronary artery.",
+          "Emphysematous changes were observed in both lungs.",
+          "Contours of the liver show lobulation in the upper abdominal sections in the study area."
+        ]
+      }
+    },
+    {
+      "report_id": "T0082",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0083",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0084",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0085",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Nonspecific parenchymal nodules with a diameter of 7.1 mm were observed in both lungs, the largest of which was superposed on the minor fissure on the right.",
+          "Millimetric calculus was observed in the gallbladder lumen."
+        ]
+      }
+    },
+    {
+      "report_id": "T0086",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Stable parenchymal nodules were observed in both lungs, the largest measuring 7 mm in diameter at the level of the minor fissure on the right, according to the previous examination.",
+          "Millimeter-sized calcules were observed in the gallbladder lumen."
+        ]
+      }
+    },
+    {
+      "report_id": "T0087",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "There are millimetric non-specific nodules in the bilateral lung."
+        ]
+      }
+    },
+    {
+      "report_id": "T0088",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Right renal atrophy and hydroureterophrosis in the pelvicalyceal system and ureter are observed in the sections passing through the upper part of the abdomen."
+        ]
+      }
+    },
+    {
+      "report_id": "T0089",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "There is a 13 mm diameter nodular lesion with rim-like calcification in the right lobe within the thyroid gland parenchyma."
+        ]
+      }
+    },
+    {
+      "report_id": "T0090",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0091",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "There are minimal emphysematous changes in both lungs.",
+          "Millimetric nonspecific nodules were observed in both lungs."
+        ]
+      }
+    },
+    {
+      "report_id": "T0092",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Calcific plaques are observed in the walls of the coronary artery in the aortic arch and descending aorta.",
+          "There are millimetric sized calculi in the gallbladder and hypodense cysts in the kidney."
+        ]
+      }
+    },
+    {
+      "report_id": "T0093",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "The anterior-posterior diameter of the ascending aorta was 47 mm, and the anterior-posterior diameter of the descending aorta was 30 mm, larger than normal.",
+          "Sliding type hiatal hernia was observed at the lower end of the esophagus.",
+          "A 12x11 mm nodule with amorphous calcifications was observed in the upper lobe of the right lung, adjacent to the minor fissure (hamartoma?).",
+          "A nonspecific pulmonary nodule with a diameter of 5.5 mm was observed on the minor fissure in the middle lobe of the right lung.",
+          "Millimetric nodular coarse calcifications were observed in the spleen (sequelae of granulomatous infection)."
+        ]
+      }
+    },
+    {
+      "report_id": "T0094",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0095",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Calcified atherosclerotic changes were observed in the wall of the thoracic aorta and coronary artery.",
+          "Heart size increased."
+        ]
+      }
+    },
+    {
+      "report_id": "T0096",
+      "annotation": {
+        "contains_IF": false,
+        "incidental_sentences": []
+      }
+    },
+    {
+      "report_id": "T0097",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Atherosclerotic calcific plaques are observed in the aortic arch, descending and abdominal aorta, and coronary artery localizations.",
+          "A hypodense nodular area of approximately 12 mm in the liver parenchyma, which is considered primarily as a cyst, is observed."
+        ]
+      }
+    },
+    {
+      "report_id": "T0098",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Minimal effusion is observed in the pericardial area.",
+          "A 17x10 mm hypodense lesion is observed on the lateral leg of the right adrenal gland."
+        ]
+      }
+    },
+    {
+      "report_id": "T0099",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "An accessory spleen with a diameter of 6.2 mm was observed inferior to the splenic hilus."
+        ]
+      }
+    },
+    {
+      "report_id": "T0100",
+      "annotation": {
+        "contains_IF": true,
+        "incidental_sentences": [
+          "Millimetric-sized calcific atheroma plaques are observed in the coronary arteries of the aortic arch, ainen aorta.",
+          "There is diffuse centriolebular-paraseptal emphysema, more prominent in the upper zones of both lungs.",
+          "In the medial part of the left kidney, a hypodense formation with a diameter of 13 mm with a faint border is observed (cortical cyst?).",
+          "Calcific atromous plaques are observed in the abdominal aorta."
+        ]
+      }
+    }
+  ]
+}

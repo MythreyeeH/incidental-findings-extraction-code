@@ -1,0 +1,307 @@
+{
+  "dataset_info": {
+    "description": "Extracted abdominal and pelvic incidental findings guideline definitions from ACR white papers for dataset engine mapping",
+    "total_findings": 27
+  },
+  "findings": [
+    {
+      "finding_id": "AP-F001",
+      "finding_name": "Benign-appearing adnexal cyst",
+      "description": "An ovarian or paraovarian cyst identified incidentally on CT or MRI in a nonpregnant postmenarchal patient with no known adnexal disorder.",
+      "features": [
+        "Oval or round shape [cite: 1932]",
+        "Unilocular mass of uniform fluid signal and attenuation [cite: 1932]",
+        "Regular or imperceptible wall [cite: 1932]",
+        "Absence of solid areas or mural nodules [cite: 1932]",
+        "Maximum diameter is strictly less than 10 cm [cite: 1932]",
+        "May contain layering hemorrhage if the patient is premenopausal [cite: 1933]"
+      ]
+    },
+    {
+      "finding_id": "AP-F002",
+      "finding_name": "Probably benign adnexal cyst",
+      "description": "An adnexal cyst that would otherwise meet all criteria for a benign-appearing cyst but fails on specific imaging or technical parameters.",
+      "features": [
+        "Displays angulated margins [cite: 1938]",
+        "Is not round or oval in shape [cite: 1938]",
+        "A portion of the cyst is poorly imaged, such as being obscured by metal streak artifact [cite: 1938]",
+        "Image demonstrates reduced signal-to-noise ratio, often due to technical parameters or lack of intravenous contrast [cite: 1938, 1939]"
+      ]
+    },
+    {
+      "finding_id": "AP-F003",
+      "finding_name": "Adnexal mass with suspicious features",
+      "description": "An adnexal mass displaying complex features that place it outside of benign or probably benign cyst definitions.",
+      "features": [
+        "Presence of a solid component [cite: 2005]",
+        "Presence of a mural nodule [cite: 2005]",
+        "Presence of septations [cite: 2005]",
+        "Demonstrates higher than fluid attenuation [cite: 2005]",
+        "Contains layering hemorrhage if found in a postmenopausal patient [cite: 2005]"
+      ]
+    },
+    {
+      "finding_id": "AP-F004",
+      "finding_name": "Endometrioma",
+      "description": "A specific characteristic adnexal mass with known potential for malignant transformation.",
+      "features": [
+        "No specific features identified on CT [cite: 2077]",
+        "Displays hyperintense T1 signal intensity and T2 shading on MRI [cite: 2077]",
+        "Often exhibits multiplicity or other pelvic findings of endometriosis [cite: 2077]",
+        "Carries a known small risk for the development of clear cell carcinoma [cite: 2068]",
+        "Merits long-term surveillance even if entirely asymptomatic [cite: 2069]"
+      ]
+    },
+    {
+      "finding_id": "AP-F005",
+      "finding_name": "Cystic teratoma",
+      "description": "A benign ovarian neoplasm containing characteristic mature tissue elements.",
+      "features": [
+        "Ovarian mass containing visible fat or macroscopic lipid [cite: 2077]",
+        "May contain a well-defined tooth or focal calcium, which is better detected on CT [cite: 2077]",
+        "Known to enlarge slowly over time [cite: 2073]",
+        "Carries approximately a 1% risk for malignant transformation, which typically presents in uniformly very large lesions [cite: 2074, 2078]"
+      ]
+    },
+    {
+      "finding_id": "AP-F006",
+      "finding_name": "Abdominal Aortic Aneurysm",
+      "description": "A progressive, permanent increase in the luminal diameter of the abdominal aorta.",
+      "features": [
+        "Categorized by relationship to renal arteries as suprarenal (normal up to 3.0 cm) or infrarenal (normal up to 2.0 cm) [cite: 2193, 2194]",
+        "Defined as an infrarenal aortic diameter greater than or equal to 3.0 cm or dilation greater than or equal to 1.5 times normal [cite: 2195]",
+        "Strong association exists between initial size and subsequent expansion rate [cite: 2198]",
+        "Rupture risk increases drastically as the aneurysm diameter exceeds 5.0 cm [cite: 2200]",
+        "Follow-up is considered unnecessary if the diameter is strictly less than 2.5 cm [cite: 2207, 2213]"
+      ]
+    },
+    {
+      "finding_id": "AP-F007",
+      "finding_name": "Penetrating Aortic Ulcer",
+      "description": "Disruption of an atherosclerotic plaque leading to the penetration of luminal blood into or through the aortic wall.",
+      "features": [
+        "Presents as a localized plaque disruption that penetrates variable distances into the wall [cite: 2217]",
+        "Typically encountered in elderly patients with advanced generalized atherosclerosis [cite: 2220]",
+        "May look similar to saccular pseudoaneurysms or small true aneurysms on cross-sectional imaging [cite: 2221]",
+        "Natural history is unpredictable; can progress to an intramural hematoma, focal dissection, pseudoaneurysm, or complete rupture [cite: 2219, 2222]",
+        "Absence of clinical symptoms does not imply structural stability [cite: 2223]"
+      ]
+    },
+    {
+      "finding_id": "AP-F008",
+      "finding_name": "Iliac Artery Aneurysm",
+      "description": "Aneurysmal dilatation of the common, internal, or external iliac arteries.",
+      "features": [
+        "Defined as an iliac vessel diameter greater than or equal to 2.5 cm or greater than or equal to 1.5 times the normal diameter [cite: 2226]",
+        "Involves the common and internal iliac arteries significantly more often than the external iliac arteries [cite: 2225]",
+        "Lesions strictly less than 3.0 cm expand slowly, are typically asymptomatic, and rarely rupture [cite: 2228]",
+        "Lesions greater than 3.5 cm exhibit a significantly greater tendency to rupture [cite: 2232]"
+      ]
+    },
+    {
+      "finding_id": "AP-F009",
+      "finding_name": "Splenic Artery Aneurysm",
+      "description": "The most common type of visceral artery aneurysm found within the abdomen.",
+      "features": [
+        "The vast majority are true aneurysms, though rare pseudoaneurysms can form in the setting of acute or chronic pancreatitis [cite: 2236, 2241]",
+        "Spontaneous rupture is rare for lesions measuring less than 2.0 cm [cite: 2243]",
+        "Risk factors for rupture include rapidly increasing size, occurrence in women of childbearing years, or presence of cirrhosis [cite: 2244]",
+        "Surveillance growth data demonstrates a mean expansion rate of approximately 0.06 cm per year [cite: 2247]",
+        "Surgical/endovascular treatment threshold is widely established at a diameter greater than or equal to 2.0 cm [cite: 2245]"
+      ]
+    },
+    {
+      "finding_id": "AP-F010",
+      "finding_name": "Renal Artery Aneurysm",
+      "description": "An uncommon aneurysmal dilation of the renal arterial tree.",
+      "features": [
+        "Etiologies include fibromuscular dysplasia (FMD), advanced atherosclerosis, or parenchymal pseudoaneurysms secondary to trauma [cite: 2252, 2257]",
+        "FMD-related aneurysms exhibit a characteristic 'string of beads' pattern, commonly in younger women with hypertension [cite: 2256]",
+        "Non-FMD aneurysms typically locate at major arterial branch points [cite: 2258]",
+        "Lesions measuring between 1.0 cm and 1.5 cm are considered safe for conservative observation [cite: 2261]",
+        "Surgical or endovascular intervention is recommended for stable lesions exceeding 1.5 cm to 2.0 cm, or if greater than or equal to 1.0 cm with uncontrolled hypertension [cite: 2260, 2264]"
+      ]
+    },
+    {
+      "finding_id": "AP-F011",
+      "finding_name": "Pancreaticoduodenal aneurysm",
+      "description": "A rare visceral artery aneurysm carrying an elevated systemic risk profile.",
+      "features": [
+        "Involves the pancreaticoduodenal arterial arcade [cite: 2391]",
+        "Considered to be at a substantially higher baseline risk for spontaneous rupture regardless of size [cite: 2275]",
+        "Consensus dictates consideration for prompt surgical or endovascular treatment immediately upon detection, bypassing standard size thresholds [cite: 2275, 2236]"
+      ]
+    },
+    {
+      "finding_id": "AP-F012",
+      "finding_name": "Isolated visceral arterial dissection",
+      "description": "A dissection limited strictly to a single visceral arterial branch, most commonly the superior mesenteric artery (SMA).",
+      "features": [
+        "Most frequently involves the superior mesenteric artery [cite: 2280]",
+        "Can be encountered completely incidentally in asymptomatic individuals [cite: 2280, 2281]",
+        "Natural history under conservative management shows high rates of non-progression, improvement, or complete spontaneous resolution [cite: 2281, 2282]"
+      ]
+    },
+    {
+      "finding_id": "AP-F013",
+      "finding_name": "May-Thurner syndrome (iliocaval compression)",
+      "description": "An anatomic variant involving the extrinsic compression of the pelvic venous system.",
+      "features": [
+        "Anatomically defined as compression of the left common iliac vein by the crossing right common iliac artery [cite: 2299]",
+        "Present as an asymptomatic variant in up to 25% of the general population [cite: 2300]",
+        "Follow-up is explicitly unnecessary unless the patient develops specific unilateral lower-extremity symptoms, such as left-sided leg swelling or deep venous thrombosis [cite: 2299, 2300]"
+      ]
+    },
+    {
+      "finding_id": "AP-F014",
+      "finding_name": "Nutcracker syndrome",
+      "description": "An anatomic vascular compression variant involving the left renal vein.",
+      "features": [
+        "Anatomically characterized by compression of the left renal vein between the abdominal aorta and the superior mesenteric artery (SMA) [cite: 2301]",
+        "Often presents with localized varices or early retrograde opacification of the gonadal venous system [cite: 2301, 2326]",
+        "Considered a clinically unimportant 'leave-alone' finding in the absence of documented flank pain, hypertension, proteinuria, or hematuria [cite: 2301, 2302]"
+      ]
+    },
+    {
+      "finding_id": "AP-F015",
+      "finding_name": "Incidental Abdominal Venous Thrombosis",
+      "description": "Thrombus formation discovered incidentally within the abdominal or pelvic venous structures.",
+      "features": [
+        "Direct or indirect imaging signs differentiate acute thrombus (low attenuation, peripheral mural enhancement) from chronic configurations [cite: 2305, 2328]",
+        "Chronic thrombosis is explicitly characterized by a small, contracted vein, wall thickening, presence of intraluminal webs, or extensive regional collateral vessels [cite: 2313, 2329]",
+        "Once meeting the criteria for a chronic thrombosis, follow-up imaging is not recommended [cite: 2313]"
+      ]
+    },
+    {
+      "finding_id": "AP-F016",
+      "finding_name": "Dilated pelvic / gonadal veins",
+      "description": "Incompetence and marked dilatation of the ovarian or pelvic venous plexuses.",
+      "features": [
+        "Ovarian vein diameter exceeding a threshold of 8 mm [cite: 2318]",
+        "Highly common, routine incidental finding in completely asymptomatic multiparous women [cite: 2318, 2322]",
+        "Can present with extreme tortuosity and parauterine dilation (mean diameter 5.9 mm) without causing symptoms [cite: 2325]",
+        "No further imaging or intervention is recommended if the finding is asymptomatic [cite: 2323]"
+      ]
+    },
+    {
+      "finding_id": "AP-F017",
+      "finding_name": "Incidental Splenic Cyst",
+      "description": "A benign, fluid-filled primary or secondary space-occupying lesion of the spleen.",
+      "features": [
+        "Characterized on CT by a sharply defined, well-circumscribed, low-attenuation lesion [cite: 2525]",
+        "Demonstrates near-water attenuation values strictly less than 10 Hounsfield Units (HU) [cite: 2491]",
+        "Wall is thin, smooth, or completely imperceptible, displaying no internal contrast enhancement [cite: 2491, 2525]",
+        "On MRI, demonstrates uniform low signal on T1-weighted images and high signal intensity on T2-weighted images (equal to CSF) without internal nodules [cite: 2526, 2527]",
+        "Thick, dense peripheral wall calcifications (exceeding 5 mm) represent old hematomas or post-traumatic cysts and are confidently benign [cite: 2528, 2529]"
+      ]
+    },
+    {
+      "finding_id": "AP-F018",
+      "finding_name": "Splenic Hemangioma",
+      "description": "The most common primary benign vascular neoplasm affecting the splenic parenchyma.",
+      "features": [
+        "Hypoattenuating on unenhanced CT, iso- to hypointense on T1 MRI, and hyperintense on T2 MRI sequences [cite: 2533]",
+        "Exhibits variable, prolonged contrast enhancement on delayed phases due to slow internal blood filling [cite: 2532, 2533]",
+        "Crucially lacks the typical crisp, discontinuous, peripheral centripetal 'flash-filling' enhancement pattern classic to hepatic hemangiomas [cite: 2491, 2532]"
+      ]
+    },
+    {
+      "finding_id": "AP-F019",
+      "finding_name": "Splenic Hamartoma",
+      "description": "A rare, benign primary solid tumor of the spleen composed of anomalous mixtures of normal tissue elements.",
+      "features": [
+        "Appears isoattenuating or slightly hypoattenuating relative to normal spleen on unenhanced CT scans [cite: 2535]",
+        "Characteristically hyperintense relative to normal adjacent splenic tissue on T2-weighted MRI pulse sequences [cite: 2535]",
+        "Demonstrates early heterogeneous contrast enhancement post-injection, which fades into prolonged, uniform enhancement on delayed imaging [cite: 2536]"
+      ]
+    },
+    {
+      "finding_id": "AP-F020",
+      "finding_name": "Splenic Lymphangioma / Lymphangiomatosis",
+      "description": "A benign vascular malformation of the lymphatic system within the spleen, often mimicking metastatic disease.",
+      "features": [
+        "Presents as a single or multicystic, sharply marginated space-occupying mass [cite: 2537, 2540]",
+        "Frequently occupies a distinctly subcapsular location [cite: 2515, 2540]",
+        "Displays low signal on T1 MRI and uniform high signal intensity on T2 MRI pulse sequences [cite: 2513]",
+        "Components may occasionally show high T1 signal intensity due to proteinaceous or hemorrhagic internal content [cite: 2539]",
+        "Exhibits zero internal contrast enhancement on post-contrast evaluation phases [cite: 2513, 2540]"
+      ]
+    },
+    {
+      "finding_id": "AP-F021",
+      "finding_name": "Suspicious Splenic Mass",
+      "description": "An indeterminate solid or complex splenic mass demonstrating criteria highly suspicious for primary malignancy (angiosarcoma) or metastasis.",
+      "features": [
+        "Demonstrates marked structural heterogeneity on unenhanced or post-contrast phases [cite: 2491, 2510]",
+        "Features poorly defined, irregular, or distinctly infiltrating structural margins [cite: 2491, 2510]",
+        "Presence of central tissue necrosis, splenic parenchymal distortion, or direct vascular invasion [cite: 2491]",
+        "Associated with multiplicity of solid lesions or progressive substantial structural enlargement over time [cite: 2491, 2510]"
+      ]
+    },
+    {
+      "finding_id": "AP-F022",
+      "finding_name": "Suspicious Abdominopelvic Lymph Node",
+      "description": "An incidentally identified lymph node in the abdomen or pelvis that meets quantitative or qualitative criteria for structural abnormality.",
+      "features": [
+        "Short-axis diameter is greater than or equal to 1.0 cm when located within the retroperitoneal space [cite: 2572, 2597]",
+        "Morphological loss of normal elongated architecture, transforming into a round configuration with an obscured or indistinct fatty hilum [cite: 2572, 2601]",
+        "Demonstrates abnormal enhancement patterns, such as internal central necrosis or profound hypervascularity [cite: 2572, 2603]",
+        "Meets numeric clustering criteria: a cluster of greater than or equal to 3 lymph nodes within a single nodal station, or a cluster of greater than or equal to 2 lymph nodes spanning greater than or equal to 2 distinct anatomical regions [cite: 2572, 2609]"
+      ]
+    },
+    {
+      "finding_id": "AP-F023",
+      "finding_name": "Sclerosing mesenteritis (mesenteric panniculitis)",
+      "description": "A common, benign fibroinflammatory condition affecting the mesenteric fat that frequently coexists with or mimics adenopathy.",
+      "features": [
+        "Characterized by encapsulated infiltration of the abdominal mesenteric fat [cite: 2633]",
+        "Exhibits a pathognomonic 'fat halo sign'—a preserved, completely normal rim of fat immediately surrounding adjacent mesenteric vessels [cite: 2633]",
+        "The presence of the fat halo sign serves to actively differentiate it from metastatic adenopathy, lymphoma, or desmoid tumors [cite: 2633]"
+      ]
+    },
+    {
+      "finding_id": "AP-F024",
+      "finding_name": "Gallbladder Polyp",
+      "description": "A mucosal projection into the gallbladder lumen, discovered incidentally on cross-sectional imaging.",
+      "features": [
+        "Presents as a small, non-shadowing focal soft-tissue project from the gallbladder wall into the lumen [cite: 2734]",
+        "Malignancy is exceedingly rare in small lesions; size is the dominant risk stratifier [cite: 2781]",
+        "Polyps measuring less than or equal to 6 mm demonstrate negligible risk and require no further action [cite: 2734, 2777]",
+        "Polyps measuring 7 mm to 9 mm carry a minor risk of adenoma/early cancer and warrant sequential monitoring [cite: 2734, 2776]",
+        "Polyps measuring greater than or equal to 10 mm carry an elevated risk profile, especially if accompanied by demonstrable documentable growth [cite: 2734, 2779]"
+      ]
+    },
+    {
+      "finding_id": "AP-F025",
+      "finding_name": "Gallbladder Wall Calcification",
+      "description": "Calcification within the gallbladder wall, ranging from focal segments to a completely calcified structure.",
+      "features": [
+        "Exhibits focal or diffuse calcification localized within the structural wall layers [cite: 2734]",
+        "Diffuse mural calcification is traditionally termed 'porcelain gallbladder' [cite: 2734, 2747]",
+        "True baseline association with gallbladder carcinoma in modern surgical series is 5% to 7%, rather than older historic highs [cite: 2747]",
+        "Risk is highest (up to 7%) in cases with partial, focal mucosal calcification, rather than uniform diffuse calcification [cite: 2750, 2752]"
+      ]
+    },
+    {
+      "finding_id": "AP-F026",
+      "finding_name": "Diffuse Gallbladder Wall Thickening",
+      "description": "Generalized, symmetric thickening of the gallbladder wall measuring greater than 3 mm without an associated soft-tissue mass.",
+      "features": [
+        "Demonstrates a measurement greater than 3 mm in wall thickness that is uniform or near-uniform globally [cite: 2734, 2766]",
+        "Frequently caused by secondary extrinsic medical conditions (e.g., hepatitis, acute/chronic liver disease, congestive heart failure, pancreatitis, or hypoproteinemia) [cite: 2734, 2767]",
+        "In the absence of a distinct focal nodule or asymmetric mass, the risk of underlying primary gallbladder carcinoma is entirely negligible [cite: 2768]"
+      ]
+    },
+    {
+      "finding_id": "AP-F027",
+      "finding_name": "Biliary Ductal Dilation",
+      "description": "Asymptomatic dilation of the extrahepatic common bile duct or common hepatic duct system.",
+      "features": [
+        "Must be measured strictly in the short-axis plane to prevent artificial exaggeration caused by oblique imaging angles [cite: 2797]",
+        "In patients with an intact gallbladder under 60 years old, defined as a short-axis diameter greater than 6 mm [cite: 2798]",
+        "In patients post-cholecystectomy (gallbladder absent), defined as a short-axis diameter greater than 10 mm [cite: 2798]",
+        "A short-axis diameter greater than 7 mm strongly suggests true underlying bile duct obstruction if the gallbladder is intact [cite: 2799]"
+      ]
+    }
+  ]
+}

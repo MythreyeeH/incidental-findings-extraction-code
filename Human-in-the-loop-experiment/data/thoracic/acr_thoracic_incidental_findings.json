@@ -1,0 +1,545 @@
+[
+  {
+    "organ_system": "Mediastinum",
+    "modality": "CT",
+    "guideline_source": "ACR Incidental Findings Committee White Paper - Managing Incidental Findings on Thoracic CT: Mediastinal and Cardiovascular Findings (Munden et al., J Am Coll Radiol 2018;15:1087-1096)",
+    "findings": [
+      {
+        "finding_id": "MED-F001",
+        "finding_name": "Incidental Mediastinal Lymph Node - Small / Benign Features",
+        "description": "Incidentally detected mediastinal lymph node with short-axis diameter less than 15 mm in a patient with no other findings. Benign nodes typically have smooth and well-defined borders, uniform and homogeneous attenuation, and a central fatty hilum. Nodes less than 15 mm in short axis in patients with no other findings do not require further evaluation.",
+        "features": [
+          "short-axis diameter < 15 mm",
+          "smooth well-defined borders",
+          "uniform homogeneous attenuation",
+          "central fatty hilum",
+          "no associated pulmonary findings",
+          "asymptomatic"
+        ]
+      },
+      {
+        "finding_id": "MED-F002",
+        "finding_name": "Incidental Mediastinal Lymph Node - Enlarged (≥15 mm short axis)",
+        "description": "Incidentally detected mediastinal lymph node with short-axis diameter of 15 mm or greater. Enlarged nodes (>1 cm) may be associated with numerous non-malignant diseases including pneumonia, congestive heart failure, granulomatous diseases (sarcoidosis), and diffuse lung diseases. Nodes ≥15 mm without explainable disease require clinical consultation and may warrant FDG PET/CT or 3–6 month follow-up CT. Nodes >25 mm are more likely pathologic. In young males, metastatic disease from undiagnosed seminoma or nonseminomatous germ cell tumors should be considered.",
+        "features": [
+          "short-axis diameter ≥ 15 mm",
+          "may lack fatty hilum",
+          "may have heterogeneous attenuation",
+          "may be associated with pulmonary findings",
+          "calcification (if present) suggests benign granulomatous disease unless known calcifying malignancy)"
+        ]
+      },
+      {
+        "finding_id": "MED-F003",
+        "finding_name": "Thymic Cyst",
+        "description": "A purely cystic lesion in the prevascular (anterior) mediastinal compartment. Typically well-circumscribed, round, oval, or saccular, and homogeneous lesions near the thymic bed with simple fluid attenuation (HU ≤ 10). Most commonly a benign thymic cyst. If higher in density, MRI is recommended to distinguish cystic versus solid components, septations, or soft tissue components.",
+        "features": [
+          "location: prevascular (anterior) mediastinal compartment",
+          "purely cystic",
+          "well-circumscribed",
+          "round, oval, or saccular shape",
+          "homogeneous",
+          "near thymic bed",
+          "simple fluid attenuation (HU ≤ 10 for benign)"
+        ]
+      },
+      {
+        "finding_id": "MED-F004",
+        "finding_name": "Pericardial Cyst",
+        "description": "A well-circumscribed cystic lesion with thin or imperceptible walls located in one of the cardiophrenic angles. Pericardial cysts are rare (1 in 100,000 individuals) but are the most common benign pericardial mass. If of simple fluid attenuation (HU ≤ 10), they do not require further evaluation. If higher in attenuation or symptomatic (e.g., chest pain), further evaluation is recommended. MRI may be useful to characterize cyst contents and assess compression of adjacent structures.",
+        "features": [
+          "location: cardiophrenic angle",
+          "well-circumscribed",
+          "thin or imperceptible walls",
+          "simple fluid attenuation (HU ≤ 10 for benign)",
+          "no internal complexity",
+          "rare"
+        ]
+      },
+      {
+        "finding_id": "MED-F005",
+        "finding_name": "Thymic Hyperplasia",
+        "description": "A soft tissue mass in the prevascular compartment conforming to the shape of the thymic gland. Typically seen in young patients. Likely represents rebound hyperplasia if there is a history of chemotherapy, radiation therapy, corticosteroids, stress (burns, injuries), or disorders such as myasthenia gravis, hyperthyroidism, collagen vascular diseases, or AIDS. Chemical shift (opposed-phase) MR imaging shows loss of signal on out-of-phase imaging due to suppression of microscopic fat interspersed within non-neoplastic thymus. Follow-up CT at 3 months is a reasonable alternative if diagnosis is uncertain.",
+        "features": [
+          "location: prevascular (anterior) mediastinal compartment",
+          "soft tissue mass conforming to thymic gland shape",
+          "typically seen in young patients",
+          "signal loss on opposed-phase MRI (chemical shift)",
+          "history of chemotherapy, radiation, or corticosteroids may be present",
+          "no local invasion"
+        ]
+      },
+      {
+        "finding_id": "MED-F006",
+        "finding_name": "Thymoma",
+        "description": "A homogeneous or slightly heterogeneous prevascular soft tissue mass in men and women older than 40 years. Especially suspicious if combined with symptoms of myasthenia gravis or another paraneoplastic syndrome. Does not suppress on opposed-phase MRI (unlike thymic hyperplasia). Requires further workup.",
+        "features": [
+          "location: prevascular (anterior) mediastinal compartment",
+          "homogeneous or slightly heterogeneous soft tissue mass",
+          "patient age typically > 40 years",
+          "may be associated with myasthenia gravis or paraneoplastic syndrome",
+          "no signal loss on opposed-phase MRI",
+          "no or minimal local invasion (in lower stages)"
+        ]
+      },
+      {
+        "finding_id": "MED-F007",
+        "finding_name": "Aggressive Thymic Epithelial Neoplasm (Thymic Carcinoma / Carcinoid)",
+        "description": "A large, heterogeneous prevascular mediastinal lesion with local invasion, lymphadenopathy, and pleural effusion. Most suspicious for an aggressive thymic epithelial neoplasm such as thymic carcinoma or carcinoid. Requires urgent further workup with MRI or PET/CT.",
+        "features": [
+          "location: prevascular (anterior) mediastinal compartment",
+          "large size",
+          "heterogeneous attenuation",
+          "local invasion",
+          "associated lymphadenopathy",
+          "pleural effusion"
+        ]
+      },
+      {
+        "finding_id": "MED-F008",
+        "finding_name": "Mediastinal Lymphoma",
+        "description": "A mildly enhancing lobular soft tissue mass or group of lesions in the prevascular compartment, especially in the setting of lymph nodes in the neck, axilla, or elsewhere. Lymphoma frequently encases vascular structures without resulting in vascular invasion. Infiltrative nature may enable differentiation from thymic and germ cell neoplasms. Classic 'B' symptoms in young patients raise suspicion. Tissue sampling required for diagnosis.",
+        "features": [
+          "location: prevascular (anterior) mediastinal compartment",
+          "lobular soft tissue mass or group of lesions",
+          "mild enhancement",
+          "may encircle vascular structures without invasion",
+          "infiltrative pattern",
+          "associated lymphadenopathy (neck, axilla, or elsewhere)",
+          "classic B symptoms may be present in young patients"
+        ]
+      },
+      {
+        "finding_id": "MED-F009",
+        "finding_name": "Posterior Mediastinal Mass",
+        "description": "Any incidental mass detected in the posterior mediastinal compartment. All posterior mediastinal masses are followed with MRI due to the high likelihood of a nerve origin (e.g., neurogenic tumors). MRI is the recommended next step for characterization regardless of specific CT appearance.",
+        "features": [
+          "location: posterior mediastinal compartment",
+          "nerve origin most likely",
+          "MRI required for further characterization"
+        ]
+      }
+    ]
+  },
+  {
+    "organ_system": "Cardiovascular",
+    "modality": "CT",
+    "guideline_source": "ACR Incidental Findings Committee White Paper - Managing Incidental Findings on Thoracic CT: Mediastinal and Cardiovascular Findings (Munden et al., J Am Coll Radiol 2018;15:1087-1096)",
+    "findings": [
+      {
+        "finding_id": "CV-F001",
+        "finding_name": "Pericardial Effusion",
+        "description": "Pericardial fluid detected incidentally on CT. The pericardial sac normally contains 15–30 mL of fluid (trace amounts within pericardial recesses). Up to 50 mL can be physiologic. Fluid volumes greater than an estimated 50 mL are considered abnormal and warrant reporting. Large pericardial effusions usually indicate significant disease. Pericardial recesses are commonly seen and should not be mistaken for lymphadenopathy.",
+        "features": [
+          "fluid within pericardial sac",
+          "normal range: 15–30 mL (up to 50 mL physiologic)",
+          "abnormal: estimated volume > 50 mL",
+          "large effusion indicates significant underlying disease",
+          "associated with infection, malignancy, trauma, myocardial disease, or post-surgical state"
+        ]
+      },
+      {
+        "finding_id": "CV-F002",
+        "finding_name": "Pericardial Thickening",
+        "description": "Thickening of the pericardium detected incidentally on CT. Normal pericardium is seen as a 1–2 mm thick line between mediastinal and epicardial fat layers; maximal normal thickness is 2 mm. A thickness greater than 3–4 mm is considered abnormal. Thickened pericardium may be due to pericarditis (acute or constrictive), post-myocardial infarction, autoimmune disease, prior radiation therapy, prior infection, renal disease, or metabolic conditions (hypothyroidism, uremia). Clinical correlation is required.",
+        "features": [
+          "pericardial thickness > 3–4 mm (abnormal)",
+          "normal thickness: 1–2 mm (max 2 mm)",
+          "may be due to pericarditis, autoimmune disease, prior radiation, infection, renal disease"
+        ]
+      },
+      {
+        "finding_id": "CV-F003",
+        "finding_name": "Thoracic Aortic Dilation (Ectasia)",
+        "description": "Aortic diameters greater than the upper limits of normal (2 SD above the mean diameter adjusted for age, sex, and body surface area) but not meeting criteria for aneurysm. Normal average diameters: ascending aorta ~34 mm in men and ~32 mm in women; descending aorta ~26 mm in men and ~23 mm in women. Diameters exceeding normal limits but below aneurysm threshold (150% of normal) are considered dilated or ectatic. Both ascending and descending locations should be specified.",
+        "features": [
+          "aortic diameter above upper limit of normal but < 150% of normal",
+          "ascending aorta normal mean: ~34 mm (men), ~32 mm (women)",
+          "descending aorta normal mean: ~26 mm (men), ~23 mm (women)",
+          "report anatomic location (ascending vs. descending)",
+          "influenced by age, sex, body surface area"
+        ]
+      },
+      {
+        "finding_id": "CV-F004",
+        "finding_name": "Thoracic Aortic Aneurysm",
+        "description": "Aortic diameter meeting or exceeding 150% of normal, defined as approximately 5.0 cm for the ascending aorta and 4.0 cm for the descending aorta. Diameters of 5.5 cm or larger place patients at high risk for rupture and should be considered for intervention. In patients with connective tissue diseases (Marfan, Ehlers-Danlos), a diameter of 5.0 cm prompts consideration of prophylactic aortic root replacement. Without intravenous contrast, aortic dissections and significant ulcerations are usually undetectable.",
+        "features": [
+          "ascending aorta ≥ 5.0 cm (aneurysm threshold, ~150% of normal)",
+          "descending aorta ≥ 4.0 cm (aneurysm threshold)",
+          "diameter ≥ 5.5 cm: high risk for rupture, consider intervention",
+          "connective tissue disease (Marfan, Ehlers-Danlos): threshold lowered to 5.0 cm for intervention consideration",
+          "report location: ascending vs. descending"
+        ]
+      },
+      {
+        "finding_id": "CV-F005",
+        "finding_name": "Coronary Artery Calcification (CAC)",
+        "description": "Calcification within the coronary arteries detected on CT, serving as a marker of atherosclerosis that correlates with the extent of atherosclerotic plaque and can be used to predict coronary heart disease risk. Should be reported in all patients irrespective of scan indication or patient risk status, when it is likely to affect patient management. Can be assessed using the Agatston scoring system or visually as none, mild, moderate, or heavy/severe. Visual scores correlate with risk: none = very low risk; mild = mildly increased risk; moderate = moderately increased risk; heavy/severe = moderately to severely increased risk. CAC classified as heavy or severe should be further evaluated.",
+        "features": [
+          "calcification within coronary arteries",
+          "marker of atherosclerosis",
+          "graded: none / mild / moderate / heavy or severe (visual)",
+          "Agatston score: 0 / 1–100 / 101–300 / >300",
+          "heavy or severe classification warrants further evaluation",
+          "should be reported on both gated and non-gated CT scans"
+        ]
+      },
+      {
+        "finding_id": "CV-F006",
+        "finding_name": "Pulmonary Artery Dilation",
+        "description": "Dilation of the main pulmonary artery detected incidentally on CT, serving as a surrogate marker for pulmonary arterial hypertension (PAH). A main pulmonary artery diameter of 3.0 cm or greater, or equal in diameter to the ascending aorta at the same level, should be reported as dilated. Reference values from the Framingham Heart Study: 90th percentile cutoff was 29 mm in men and 27 mm in women; 90th percentile for the ratio of main pulmonary artery to ascending aorta diameter was 0.91. May reflect primary PAH or be secondary to chronic pulmonary embolus or other pulmonary disease.",
+        "features": [
+          "main pulmonary artery diameter ≥ 3.0 cm",
+          "OR main pulmonary artery diameter equal to or greater than ascending aorta diameter",
+          "90th percentile reference: 29 mm (men), 27 mm (women)",
+          "PA:aorta ratio > 0.91 is elevated",
+          "may indicate primary PAH or secondary causes (chronic PE, lung disease)"
+        ]
+      },
+      {
+        "finding_id": "CV-F007",
+        "finding_name": "Incidental Pulmonary Embolism",
+        "description": "Unsuspected acute pulmonary embolism detected incidentally on routine contrast-enhanced chest CT. Reported in 0.6%–4.0% of outpatients and 4%–6.4% of inpatients on routine contrast-enhanced chest CT. Malignancy is the most common predisposing factor, with highest prevalence among oncology patients. Chronic thromboembolic disease resulting in pulmonary hypertension occurs in less than 1% of patients followed after a documented episode of PE. The location and distribution of pulmonary embolus or emboli should be reported.",
+        "features": [
+          "filling defect within pulmonary artery on contrast-enhanced CT",
+          "incidentally detected (not the primary indication for scan)",
+          "report location and distribution",
+          "malignancy is most common predisposing factor",
+          "acute vs. chronic distinction important"
+        ]
+      }
+    ]
+  },
+  {
+    "organ_system": "Lung",
+    "modality": "CT",
+    "guideline_source": "ACR Incidental Findings Committee White Paper - Managing Incidental Findings on Thoracic CT: Lung Findings (Munden et al., J Am Coll Radiol 2021;18:1267-1279)",
+    "findings": [
+      {
+        "finding_id": "LUNG-F001",
+        "finding_name": "Solid Pulmonary Nodule",
+        "description": "A rounded opacity, well or poorly defined, measuring up to 3 cm in diameter with homogeneous soft-tissue attenuation throughout. Size is defined as the average of long- and short-axis diameters measured on lung windows using thin (≤1.5 mm) section images. Management is primarily based on size, patient risk, and number (solitary vs. multiple). Low risk is defined as < 5% malignancy probability; high risk as ≥ 5%. Benign calcification patterns (central nidus comprising majority of nodule, laminated, popcorn, diffuse) reliably exclude malignancy. Focal fat attenuation (−120 to −40 HU) in a smoothly marginated nodule is a reliable sign of hamartoma in patients without prior malignancy.",
+        "features": [
+          "rounded opacity up to 3 cm in diameter",
+          "homogeneous soft-tissue attenuation throughout",
+          "no ground glass component",
+          "size: average of long- and short-axis diameters on lung windows",
+          "margin: smooth, spiculated, or lobulated (spiculated/lobulated increases malignancy risk ~2x)",
+          "benign calcification patterns: central, laminated, popcorn, diffuse",
+          "focal fat (-120 to -40 HU) in smooth nodule = hamartoma (no prior malignancy)"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F002",
+        "finding_name": "Ground Glass (Nonsolid) Pulmonary Nodule",
+        "description": "A pulmonary nodule with hazy, increased attenuation of the lung parenchyma that does not obliterate bronchial and vascular margins (pure ground glass, nonsolid). Generally has a lower rate of malignancy than solid nodules but may represent adenocarcinoma in situ or minimally invasive adenocarcinoma. Size is measured as the average of long- and short-axis diameters. For nodules ≥ 6 mm, follow-up CT at 6–12 months is recommended to confirm persistence, then every 2 years until 5 years. Development of a solid component is concerning for malignancy.",
+        "features": [
+          "hazy increased attenuation",
+          "bronchial and vascular margins preserved (not obliterated)",
+          "no solid component",
+          "lower malignancy rate than solid nodules",
+          "size ≥ 6 mm requires follow-up",
+          "development of solid component is concerning for malignancy",
+          "may represent AIS or minimally invasive adenocarcinoma"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F003",
+        "finding_name": "Part-Solid Pulmonary Nodule",
+        "description": "A pulmonary nodule consisting of both ground glass and solid soft-tissue attenuation components. The solid component is measured separately on lung windows. Part-solid nodules cannot be defined as such until they are ≥ 6 mm; nodules < 6 mm usually do not require follow-up. Persistent part-solid nodules with a solid component ≥ 6 mm should be considered highly suspicious for malignancy. Development of or growth in the solid component is an indication for consideration of resection.",
+        "features": [
+          "combination of ground glass and solid soft-tissue attenuation",
+          "solid component measured separately on lung windows",
+          "cannot be classified as part-solid until ≥ 6 mm total size",
+          "solid component ≥ 6 mm is highly suspicious",
+          "growth or development of solid component warrants resection consideration",
+          "higher malignancy risk than pure ground glass nodules"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F004",
+        "finding_name": "Perifissural / Juxtapleural Nodule (Benign Intrapulmonary Lymph Node)",
+        "description": "A perifissural or juxtapleural homogeneous, solid nodule with smooth margins and an oval, lentiform, or triangular shape. Represents approximately 20% of nodules detected in lung cancer screening and are usually caused by benign intrapulmonary lymph nodes. Follow-up CT is not recommended for either perifissural or juxtapleural nodules with typical benign or lymph node morphology when their size is ≤ 10 mm.",
+        "features": [
+          "perifissural or juxtapleural location",
+          "homogeneous solid attenuation",
+          "smooth margins",
+          "oval, lentiform, or triangular shape",
+          "size ≤ 10 mm (no follow-up needed if typical morphology)",
+          "represents ~20% of screening-detected nodules",
+          "benign intrapulmonary lymph node etiology"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F005",
+        "finding_name": "Pulmonary Hamartoma",
+        "description": "A smoothly marginated pulmonary nodule containing focal fat attenuation (−120 to −40 Hounsfield Units). Focal fat within a smoothly marginated nodule is a reliable sign of a hamartoma in patients without prior malignancy. Benign; no further workup required in appropriate clinical context. Popcorn calcification may also be present.",
+        "features": [
+          "smoothly marginated nodule",
+          "focal fat attenuation: −120 to −40 HU",
+          "may contain popcorn calcification",
+          "no prior history of malignancy (for reliable diagnosis)",
+          "benign finding"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F006",
+        "finding_name": "Pulmonary Cyst",
+        "description": "A region of low attenuation within the lung parenchyma with a wall that creates a well-defined interface with normal lung on thoracic CT. Common and likely related to aging (present in 25% of patients older than 75 years; none in those younger than 55 years in one study). Isolated thin-wall solitary cysts are usually the result of infection or inflammatory processes and are benign. Thick-walled cysts (> 2 mm) may require further evaluation. A cyst associated with a nodular component (in the wall or abutting the cyst) should be followed due to the association with cystic lung cancer. Emphysema is distinguished by absence of a defined wall and presence of central linear or nodular opacities within areas of air attenuation.",
+        "features": [
+          "region of low attenuation within lung parenchyma",
+          "well-defined wall creating interface with normal lung",
+          "thin wall (≤ 2 mm): usually benign",
+          "thick wall (> 2 mm): further evaluation required",
+          "nodular component in or abutting wall: follow for cystic lung cancer",
+          "solitary vs. multiple",
+          "distribution pattern important (upper, lower, diffuse)",
+          "distinguished from emphysema by presence of defined wall"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F007",
+        "finding_name": "Emphysema",
+        "description": "Areas of decreased attenuation (air) within the lungs without a defined wall, resulting from destruction of lung parenchyma. Centrilobular core structures (bronchial artery, bronchiole, intralobular septa) are spared, resulting in linear and nodular opacities within the areas of air attenuation. Distinguished from true cystic lung diseases which have a defined wall and tend to displace centrilobular core structures to the periphery. Types include centrilobular and paraseptal; both type and extent should be noted.",
+        "features": [
+          "areas of decreased attenuation (air) without defined wall",
+          "result of lung parenchyma destruction",
+          "centrilobular structures spared (linear/nodular opacities within air areas)",
+          "no defined wall (distinguishes from pulmonary cysts)",
+          "types: centrilobular or paraseptal",
+          "extent should be reported"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F008",
+        "finding_name": "Lymphangioleiomyomatosis (LAM) - Cystic Pattern",
+        "description": "One of the two most commonly encountered cystic lung diseases on thoracic CT. Characterized by diffuse pulmonary cysts often with lower lung predominance. May be seen in association with tuberous sclerosis. Distribution is typically diffuse or may have lower lung predominance. Associated findings may include chylous pleural effusions. Pulmonary consultation is recommended.",
+        "features": [
+          "diffuse pulmonary cysts",
+          "lower lung predominance possible",
+          "cysts with well-defined walls",
+          "associated with tuberous sclerosis",
+          "no predominant nodules",
+          "pulmonary consultation indicated"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F009",
+        "finding_name": "Pulmonary Langerhans Cell Histiocytosis (PLCH) - Cystic Pattern",
+        "description": "One of the two most commonly encountered cystic lung diseases on thoracic CT. Characterized by cysts with upper lung predominance, sparing the bases. Nodules may also be present in the same distribution as the cysts. Associated with cigarette smoking. Distribution is typically upper lung predominant with sparing of lung bases.",
+        "features": [
+          "upper lung predominance with sparing of bases",
+          "pulmonary cysts",
+          "nodules may be present in same distribution as cysts",
+          "associated with cigarette smoking",
+          "pulmonary consultation indicated"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F010",
+        "finding_name": "Birt-Hogg-Dubé Syndrome - Cystic Pattern",
+        "description": "A genetic syndrome associated with diffuse pulmonary cysts with lower lung predominance and no associated abnormality (e.g., no ground glass or nodules). Associated with skin fibrofolliculomas and renal tumors. The cyst distribution (diffuse with lower lung predominance, no associated ground glass or nodules) is the key distinguishing feature on CT.",
+        "features": [
+          "diffuse pulmonary cysts with lower lung predominance",
+          "no associated ground glass opacities",
+          "no associated nodules",
+          "genetic syndrome (fibrofolliculomas, renal tumors associated)",
+          "pulmonary consultation indicated"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F011",
+        "finding_name": "Lymphoid Interstitial Pneumonia (LIP) - Cystic Pattern",
+        "description": "Cystic lung disease with diffuse cysts and lower lung predominance with associated areas of ground glass attenuation in the lower lungs. Often seen in association with Sjögren's syndrome and other autoimmune conditions. The combination of cysts and ground glass in the lower lung zones is a key distinguishing feature.",
+        "features": [
+          "diffuse cysts with lower lung predominance",
+          "associated ground glass attenuation in lower lungs",
+          "often associated with Sjögren's syndrome",
+          "autoimmune disease association",
+          "pulmonary consultation indicated"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F012",
+        "finding_name": "Amyloidosis / Light Chain Deposition Disease - Cystic Pattern",
+        "description": "Diffuse pulmonary cysts with lower lung predominance associated with pulmonary nodules (without ground glass opacity). The presence of cysts plus nodules without ground glass in a lower-predominant distribution should raise consideration of amyloidosis or light chain deposition disease.",
+        "features": [
+          "diffuse cysts with lower lung predominance",
+          "associated pulmonary nodules",
+          "no associated ground glass opacities",
+          "pulmonary consultation indicated"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F013",
+        "finding_name": "Ground Glass Opacity (GGO) - General",
+        "description": "Hazy increased opacity of the lung with preservation of bronchial and vascular margins. Distinguished from consolidation, which is a homogeneous increase in lung attenuation that obscures vessels and airway walls. Ground glass opacities result from a wide spectrum of diseases that partially fill air spaces, cause interstitial thickening, or both. Evaluation is based on acuity (acute vs. chronic), distribution (diffuse vs. focal, upper vs. lower, central vs. subpleural), and associated findings. Focal ground glass opacities may represent nodules and are managed under the nodule algorithm.",
+        "features": [
+          "hazy increased lung opacity",
+          "bronchial and vascular margins preserved",
+          "distinguished from consolidation (which obscures vessels)",
+          "evaluate acuity: acute vs. chronic",
+          "evaluate distribution: diffuse vs. focal; upper vs. lower; central vs. subpleural",
+          "evaluate associated findings: reticular opacities, cardiomegaly, pleural effusions"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F014",
+        "finding_name": "Diffuse Acute Ground Glass Opacity",
+        "description": "Acute diffuse ground glass opacity detected incidentally. Acute onset (based on comparison imaging or clinical history) diffuse ground glass opacity is probably infectious, inflammatory, or due to edema. Further workup is based on the clinical scenario. Common causes include infections, pulmonary edema, diffuse alveolar hemorrhage, drug toxicity, and interstitial pneumonias.",
+        "features": [
+          "acute onset (per clinical history or comparison imaging)",
+          "diffuse distribution",
+          "ground glass pattern",
+          "probable infectious, inflammatory, or edematous etiology",
+          "further workup guided by clinical scenario"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F015",
+        "finding_name": "Diffuse Chronic Ground Glass Opacity with Air Trapping (Hypersensitivity Pneumonitis Pattern)",
+        "description": "Chronic diffuse ground glass opacity with associated air trapping on expiratory imaging. Air trapping reflects small airways disease. This combination should raise consideration of hypersensitivity pneumonitis. Expiratory imaging is helpful to differentiate primary vascular causes of mosaic oligemia (no air trapping) from small airways disease (air trapping present).",
+        "features": [
+          "chronic ground glass opacity",
+          "diffuse distribution",
+          "associated air trapping on expiratory imaging",
+          "small airways disease pattern",
+          "consider hypersensitivity pneumonitis",
+          "pulmonary consultation may be indicated"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F016",
+        "finding_name": "Diffuse Chronic Ground Glass Opacity with Crazy-Paving (Alveolar Proteinosis Pattern)",
+        "description": "Chronic diffuse ground glass opacity with associated interlobular septal thickening creating a 'crazy-paving' appearance. Although initially described in pulmonary alveolar proteinosis, this pattern is not pathognomonic and may be seen in pulmonary edema, hemorrhage, infection, sarcoidosis, lipoid pneumonia, and adenocarcinoma. Pulmonary consultation may be indicated.",
+        "features": [
+          "chronic ground glass opacity",
+          "diffuse distribution",
+          "associated interlobular septal thickening",
+          "crazy-paving pattern",
+          "consider alveolar proteinosis (and broad differential)",
+          "pulmonary consultation may be indicated"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F017",
+        "finding_name": "Focal / Nodular Chronic Ground Glass Opacity (Adenocarcinoma Pattern)",
+        "description": "Focal or nodular chronic ground glass opacity. In the setting of chronic, focal, nodular ground glass opacity, primary lung adenocarcinoma (adenocarcinoma in situ, minimally invasive adenocarcinoma) should be considered. Workup of these focal ground glass opacities discovered incidentally is covered under the nodule section of the guidelines.",
+        "features": [
+          "focal or nodular distribution",
+          "chronic (persistent on comparison imaging)",
+          "ground glass attenuation",
+          "consider adenocarcinoma in situ or minimally invasive adenocarcinoma",
+          "managed under pulmonary nodule algorithm"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F018",
+        "finding_name": "Chronic Ground Glass Opacity with Lower Lung and Subpleural Predominance - NSIP or DIP Pattern",
+        "description": "Chronic lower lung and subpleural predominant ground glass opacity with associated reticular fibrotic opacities with or without traction bronchiectasis, but without honeycombing. This pattern raises consideration of nonspecific interstitial pneumonia (NSIP) or desquamative interstitial pneumonia (DIP). Subpleural sparing may be identified in NSIP and can help differentiate it from UIP. Pulmonary consultation may be indicated.",
+        "features": [
+          "chronic ground glass opacity",
+          "lower lung and subpleural predominance",
+          "associated reticular fibrotic opacities",
+          "traction bronchiectasis may be present",
+          "no honeycombing (typical of NSIP)",
+          "subpleural sparing may be present (NSIP)",
+          "consider NSIP or DIP",
+          "pulmonary consultation may be indicated"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F019",
+        "finding_name": "Chronic Ground Glass Opacity with Lower Lung Predominance and Consolidation (Organizing Pneumonia Pattern)",
+        "description": "Chronic lower lung predominant ground glass opacity with associated areas of consolidation. This pattern raises consideration of organizing pneumonia (cryptogenic or secondary). Pulmonary consultation may be indicated.",
+        "features": [
+          "chronic ground glass opacity",
+          "lower lung predominance",
+          "associated areas of consolidation",
+          "consider organizing pneumonia",
+          "pulmonary consultation may be indicated"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F020",
+        "finding_name": "Interlobular Septal Thickening",
+        "description": "Thickening of the interlobular septa, which contain pulmonary veins and lymphatics. Septal thickening outlines the polygonal structure of the secondary pulmonary lobule. Smooth, bilateral septal thickening is frequently due to pulmonary edema (associated findings: peribronchial thickening, fissural thickening, pleural effusion). Nodular or irregular interlobular septal thickening may indicate lymphangitic carcinomatosis (typically in setting of known malignancy—breast, lung, colon, gastric) or sarcoidosis (not typically the predominant finding; associated with perilymphatic nodules). Distribution and associated findings are key to differential diagnosis.",
+        "features": [
+          "thickening of interlobular septa",
+          "outlines polygonal structure of secondary pulmonary lobule",
+          "smooth bilateral: likely pulmonary edema",
+          "nodular or irregular: consider lymphangitic carcinomatosis or sarcoidosis",
+          "lymphangitic carcinomatosis: usually in setting of known malignancy",
+          "sarcoidosis: associated with perilymphatic nodules",
+          "follow-up performed as clinically indicated"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F021",
+        "finding_name": "Reticular Opacities / Interstitial Lung Abnormalities (ILA)",
+        "description": "A mesh-like network of fine lines due to infiltration and thickening of the interstitial framework of the secondary pulmonary lobule, not conforming to lobular anatomy. May represent a combination of interlobular septal thickening, intralobular septal thickening, peribronchovascular interstitial thickening, traction bronchiectasis, and honeycombing. Reticular opacities involving more than 5% of the lungs are classified as interstitial lung abnormalities (ILA). Distribution (scattered/random vs. subpleural with basilar predominance) and associated findings determine differential diagnosis and management. High-resolution CT is recommended for confirmation and further characterization.",
+        "features": [
+          "mesh-like network of fine lines",
+          "does not conform to lobular anatomy",
+          "may include: interlobular septal thickening, intralobular thickening, peribronchovascular thickening, traction bronchiectasis, honeycombing",
+          "ILA defined as > 5% of lungs involved",
+          "distribution: scattered/random vs. subpleural basilar predominant",
+          "associated findings: honeycombing, traction bronchiectasis, ground glass",
+          "HRCT recommended for confirmation"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F022",
+        "finding_name": "Usual Interstitial Pneumonia (UIP) Pattern",
+        "description": "A pattern of reticular opacities that is typically peripheral and basilar predominant with traction bronchiectasis (dilatation and distortion of bronchi and bronchioles) within areas of fibrosis and associated honeycombing (subpleural clusters or rows of cysts). UIP is the most common cause of honeycombing. Recent Fleischner Society classification outlines patterns as typical UIP, probable UIP, indeterminate for UIP, and alternate diagnosis. Pulmonary consultation may be indicated.",
+        "features": [
+          "peripheral and basilar predominant reticular opacities",
+          "traction bronchiectasis",
+          "honeycombing (subpleural clusters or rows of cysts)",
+          "fibrosis",
+          "no or minimal ground glass",
+          "Fleischner classification: typical UIP / probable UIP / indeterminate / alternate diagnosis",
+          "pulmonary consultation may be indicated"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F023",
+        "finding_name": "Nonspecific Interstitial Pneumonia (NSIP) Pattern",
+        "description": "A pattern of reticular opacities that is basilar predominant with traction bronchiectasis. Distinguished from UIP by the typical absence of honeycombing and the presence of subpleural sparing. Subpleural sparing may be identified in areas of NSIP and can be used to differentiate NSIP from UIP when present. Pulmonary consultation may be indicated.",
+        "features": [
+          "basilar predominant reticular opacities",
+          "traction bronchiectasis",
+          "no honeycombing (typical feature distinguishing from UIP)",
+          "subpleural sparing may be present",
+          "ground glass opacity may be present",
+          "pulmonary consultation may be indicated"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F024",
+        "finding_name": "Combined Pulmonary Fibrosis and Emphysema",
+        "description": "The combination of reticular opacities (fibrosis pattern) in the setting of emphysema. This combination has been classified as combined pulmonary fibrosis and emphysema, which has some clinical utility but it is uncertain as to whether it represents a distinct entity. The co-existence of upper lobe emphysema and lower lobe fibrosis may result in relatively preserved lung volumes despite significant disease.",
+        "features": [
+          "reticular opacities (fibrosis pattern)",
+          "concurrent emphysema",
+          "often upper lobe emphysema with lower lobe fibrosis",
+          "clinical significance uncertain as a distinct entity",
+          "lung volumes may appear relatively preserved"
+        ]
+      },
+      {
+        "finding_id": "LUNG-F025",
+        "finding_name": "Mosaic Attenuation",
+        "description": "A pattern of alternating areas of higher and lower lung attenuation on CT. Differentiating the cause of mosaic attenuation is important: if due to fluid or cellular infiltration, vessel size in both high- and low-attenuation areas is similar; if due to airway or vascular abnormality, vessels in low-attenuation areas are smaller (mosaic oligemia). Expiratory imaging can differentiate primary vascular causes (no air trapping) from small airways disease (air trapping present). Causes include obstructive pulmonary disease and chronic thromboembolic disease.",
+        "features": [
+          "alternating areas of higher and lower lung attenuation",
+          "vascular etiology: smaller vessels in low-attenuation areas (mosaic oligemia)",
+          "airway or infiltrative etiology: similar vessel size in high- and low-attenuation areas",
+          "air trapping on expiratory imaging: indicates small airways disease",
+          "no air trapping on expiratory imaging: suggests primary vascular cause (e.g., chronic PE)"
+        ]
+      }
+    ]
+  }
+]
