@@ -1,0 +1,10 @@
+venv/
+.venv/
+
+models/
+*.gguf
+
+__pycache__/
+*.pyc
+
+llama.cpp/

@@ -1,0 +1,78 @@
+<<<<<<< HEAD
+[
+  {
+    "free_text": "The thyroid is normal. Supraclavicular, axillary, mediastinal and hilar lymph nodes are not enlarged. Aorta and pulmonary arteries are normal size. Cardiac configuration is normal and there is mild coronary calcification. The lungs are clear., there is mild biapical scarring. There is no pleural or pericardial effusion. Please refer to the abdomen CT of ___ for complete description of the intra-abdominal findings.",
+    "contains_IF": true,
+    "incidental_sentences": [
+      "Cardiac configuration is normal and there is mild coronary calcification."
+    ]
+  },
+  {
+    "free_text": "There is partially imaged moderate bilateral pleural effusions with overlying atelectasis, with atelectasis greater on the right than the left. Partially imaged aortic valve and coronary artery calcifications. The interventricular blood pool is hypodense in relation to the myocardium, suggesting anemia.",
+    "contains_IF": true,
+    "incidental_sentences": [
+      "Partially imaged aortic valve and coronary artery calcifications."
+    ]
+  },
+  {
+    "free_text": "Evaluation of pulmonary detail is somewhat limited, particularly on the AP view, by soft tissue attenuation. The lung volumes are low. The heart is mild to moderately enlarged. The mediastinal and hilar contours are unremarkable. The lungs appear clear. There are no pleural effusions or pneumothorax. Mild degenerative changes are present along the thoracic spine. Cardiomegaly. No evidence of acute disease.",
+    "contains_IF": true,
+    "incidental_sentences": [
+      "Mild degenerative changes are present along the thoracic spine."
+    ]
+  },
+  {
+    "free_text": "There is no axillary, mediastinal or hilar lymphadenopathy. The heart and great vessels are unremarkable. Incidentally noted is a normal variant with the left vertebral artery arising directly from the aortic arch. Tracheobronchial tree is patent to the subsegmental levels. The lungs are clear. There are no pulmonary nodules or parenchymal opacification. There are no pleural effusions or pneumothorax. A subcentimeter hypodensity within segment ___ of the liver (4:59) is unchanged since multiple prior examinations dating back to ___. There are no new focal concerning liver lesions. The gallbladder, spleen, pancreas, both adrenal glands, both kidneys, and visualized portions of intra-abdominal small and large bowel are unremarkable. There is no intra-abdominal free air or free fluid. There is no mesenteric or retroperitoneal lymphadenopathy. The rectum, sigmoid colon, bladder are unremarkable. The patient is status post hysterectomy and oophorectomy. There is no pelvic free fluid. There is no pelvic or inguinal lymphadenopathy. There are no suspicious lytic or sclerotic lesions. There is partial sacralization of the left L5 vertebral body. No evidence of local or metastatic disease recurrence.",
+    "contains_IF": true,
+    "incidental_sentences": [
+      "Incidentally noted is a normal variant with the left vertebral artery arising directly from the aortic arch.",
+      "There is partial sacralization of the left L5 vertebral body."
+    ]
+  },
+  {
+    "free_text": "Multi lead left-sided ICD is seen with leads extending to the expected positions of the right atrium, right ventricle, coronary sinus. Minimal left base atelectasis is seen without focal consolidation. No large pleural effusion or pneumothorax is seen. The cardiac silhouette is mild to moderately enlarged. The aorta is tortuous. No pulmonary edema is seen.",
+    "contains_IF": true,
+    "incidental_sentences": [
+      "The aorta is tortuous."
+    ]
+  }
+=======
+[
+  {
+    "free_text": "The thyroid is normal. Supraclavicular, axillary, mediastinal and hilar lymph nodes are not enlarged. Aorta and pulmonary arteries are normal size. Cardiac configuration is normal and there is mild coronary calcification. The lungs are clear., there is mild biapical scarring. There is no pleural or pericardial effusion. Please refer to the abdomen CT of ___ for complete description of the intra-abdominal findings.",
+    "contains_IF": true,
+    "incidental_sentences": [
+      "Cardiac configuration is normal and there is mild coronary calcification."
+    ]
+  },
+  {
+    "free_text": "There is partially imaged moderate bilateral pleural effusions with overlying atelectasis, with atelectasis greater on the right than the left. Partially imaged aortic valve and coronary artery calcifications. The interventricular blood pool is hypodense in relation to the myocardium, suggesting anemia.",
+    "contains_IF": true,
+    "incidental_sentences": [
+      "Partially imaged aortic valve and coronary artery calcifications."
+    ]
+  },
+  {
+    "free_text": "Evaluation of pulmonary detail is somewhat limited, particularly on the AP view, by soft tissue attenuation. The lung volumes are low. The heart is mild to moderately enlarged. The mediastinal and hilar contours are unremarkable. The lungs appear clear. There are no pleural effusions or pneumothorax. Mild degenerative changes are present along the thoracic spine. Cardiomegaly. No evidence of acute disease.",
+    "contains_IF": true,
+    "incidental_sentences": [
+      "Mild degenerative changes are present along the thoracic spine."
+    ]
+  },
+  {
+    "free_text": "There is no axillary, mediastinal or hilar lymphadenopathy. The heart and great vessels are unremarkable. Incidentally noted is a normal variant with the left vertebral artery arising directly from the aortic arch. Tracheobronchial tree is patent to the subsegmental levels. The lungs are clear. There are no pulmonary nodules or parenchymal opacification. There are no pleural effusions or pneumothorax. A subcentimeter hypodensity within segment ___ of the liver (4:59) is unchanged since multiple prior examinations dating back to ___. There are no new focal concerning liver lesions. The gallbladder, spleen, pancreas, both adrenal glands, both kidneys, and visualized portions of intra-abdominal small and large bowel are unremarkable. There is no intra-abdominal free air or free fluid. There is no mesenteric or retroperitoneal lymphadenopathy. The rectum, sigmoid colon, bladder are unremarkable. The patient is status post hysterectomy and oophorectomy. There is no pelvic free fluid. There is no pelvic or inguinal lymphadenopathy. There are no suspicious lytic or sclerotic lesions. There is partial sacralization of the left L5 vertebral body. No evidence of local or metastatic disease recurrence.",
+    "contains_IF": true,
+    "incidental_sentences": [
+      "Incidentally noted is a normal variant with the left vertebral artery arising directly from the aortic arch.",
+      "There is partial sacralization of the left L5 vertebral body."
+    ]
+  },
+  {
+    "free_text": "Multi lead left-sided ICD is seen with leads extending to the expected positions of the right atrium, right ventricle, coronary sinus. Minimal left base atelectasis is seen without focal consolidation. No large pleural effusion or pneumothorax is seen. The cardiac silhouette is mild to moderately enlarged. The aorta is tortuous. No pulmonary edema is seen.",
+    "contains_IF": true,
+    "incidental_sentences": [
+      "The aorta is tortuous."
+    ]
+  }
+>>>>>>> 5afd73455803f307521be558a0d65635bb295f4b
+]
