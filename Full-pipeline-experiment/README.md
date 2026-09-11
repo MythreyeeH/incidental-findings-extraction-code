@@ -23,7 +23,7 @@ Full-pipeline-experiment/
 │ ├── unannotated_kd_dataset.json
 │ └── white_paper_guidelines.json
 ├── thoracic-pipeline/
-│ ├── thoracic-reverse-experiment-ensemble-....ipynb
+│ ├── thoracic-reverse-experiment-ensemble-3.ipynb
 │ ├── thoracic-reverse-experiment-kd-1.ipynb
 │ └── thoracic-reverse-experiment-qlora2.ipynb
 └── README.md
